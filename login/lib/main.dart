@@ -101,9 +101,13 @@ class _MyHomePageState extends State<MyHomePage> {
               style: TextStyle(fontSize: 20),
             ),
             TextFormField(
+
               keyboardType: TextInputType.emailAddress,
+
               autofocus: false,
+
               initialValue: 'example@cuc.edu.co',
+
               decoration: InputDecoration(
                   hintText: 'email',
                   contentPadding: EdgeInsets.fromLTRB(10.0, 10.0, 11.0, 10.0),
