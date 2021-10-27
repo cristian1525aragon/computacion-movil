@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226452889916",
+    "project_id": "computacionmovil-60278",
+    "storage_bucket": "computacionmovil-60278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226452889916:android:d564fabf9656089a053e39",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226452889916-4eda4dfbvm6lea5p7b2hhtp7e2jfi08a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWpWm2BbD35VPA5eJbPo_bYZahRFGGCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226452889916-4eda4dfbvm6lea5p7b2hhtp7e2jfi08a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
